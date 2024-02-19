@@ -3,7 +3,6 @@
 require 'net/http'
 require 'json'
 require 'concurrent'
-require 'redis'
 require 'ruby-limiter'
 require 'byebug'
 
